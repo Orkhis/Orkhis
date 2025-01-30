@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Walid ORKHIS 👋
 
-<!--
-**Orkhis/Orkhis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**
+- 🎓 Engineering student specializing in **Software Development & AI**.
+- 💡 Passionate about **open-source contributions** and **DevOps**.
+- 🌍 Currently learning **Docker, Kubernetes, and Cloud Computing**.
+- 💬 Ask me about **Python, Git, CI/CD, and Web Development**.
 
-Here are some ideas to get you started:
+📫 **Connect with me:**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/walid-orkhis-4b1523287/)
+- 📧 Email: orkhiswalid@gmail.com
+- 📝 [Portfolio Website](https://orkhiswalid.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **GitHub Stats:**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
