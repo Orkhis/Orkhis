@@ -8,7 +8,7 @@
 
 📫 **Connect with me:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/walid-orkhis-4b1523287/)
-- 📧 [Email](orkhiswalid@gmail.com)
+- 📧 [orkhiswalid@gmail.com](orkhiswalid@gmail.com)
 - 📝 [Portfolio Website](https://orkhiswalid.github.io/)
 
 📊 **GitHub Stats:**
