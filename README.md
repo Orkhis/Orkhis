@@ -56,7 +56,7 @@ I am currently a **2nd-year engineering student at Télécom Saint-Étienne**, p
 
 ## 🌐 **Find Me Online**
 🔗 [LinkedIn](https://linkedin.com/in/walid-orkhis-4b1523287)  
-📂 [Portfolio](https://Orkhis.github.io/) (Coming soon!)  
+📂 [Portfolio](https://Orkhis.github.io/)
 📧 **Email**: [orkhiswalid@gmail.com](mailto:orkhiswalid@gmail.com)  
 👨‍💻 **GitHub**: [Orkhis](https://github.com/Orkhis)  
 
